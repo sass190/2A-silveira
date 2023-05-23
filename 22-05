@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"/>
+<title>trasncrição aula</title>
+</head>
+<body>
+  
+  <h1>Introdução</h1>
+  
+  <h2>Transcrição</h2>
+  
+  <p>Neste curso abordaremos um pouco da estratégia de UX: como temos ideias? 
+Como escolhemos, dentre as opções disponíveis? Em resumo, descobriremos 
+como melhorar nossas escolhas na hora de criar um aplicativo, site, produto ou 
+serviço. Antes de iniciar, é recomendável que você faça o curso UX: o que é 
+experiência de usuário (https://www.alura.com.br/curso-online-ux-base). 
+Nosso objetivo principal será criar um aplicativo que ajude viajantes a 
+encontrarem companhia, independente do destino da viagem. Algumas funcionalidades previamente pensadas são:</p>
+<ul>
+  <li>menu para logar; </li>
+   <li>destinos em destaque; </li>
+  <li>campo de busca; </li>
+    <li>localizar viajantes próximos </li>
+    <li>criar grupo de viagem; </li>
+  
+  <p>A partir destes pontos já é possível esboçar alguns sketches. Acrescentaremos 
+um logo, um campo de busca, botões, e assim por diante. Planejamos três 
+    telas:</p>
+  <h1>Inicial</h1>
+  <li>Perfil do viajante;</li>
+<li>Chat</li>
+  
+  <p>Agora, além de criarmos os esboços nós também já montamos as telas 
+utilizando o <b>Photoshop</b>, já contratamos um desenvolvedor, criamos uma 
+    propaganda para o aplicativo e lançamos ele na App Store.</p>
+  <p>Diante de todas esrealmente faz sentido implementar todas elas? </b> </p>
+53
+  sas circunstâncias observe o que aconteceu:</p>
+<img src="Captura de tela_2023-05-16_07-49-35.png"
+    align="center"/>
+  
+  
+  
+  <p>Nosso aplicativo teve um pico de usuários de dez pessoas e, depois, esse 
+número reduziu até zerar. Por que isso aconteceu com o aplicativo de 
+    viajantes?</p>
+  
+  <p>Isso aconteceu porque às vezes o processo de UX é ignorado, e os profissionais 
+    seguem diretamente para o Design.</p>
+  
+  <p>Outra arealmente faz sentido implementar todas elas? </b> </p>
+53
+  bordagem para lidar com aplicativos é pensar mais e melhor na 
+estratégia, assim, em vez de começarmos a elaborar diversas funcionalidades, 
+    vamos refletir: <b>realmente faz sentido implementar todas elas? </b> </p>
+  
+  <p>Pensar mais antes de agir é interessante, pois nos tornamos mais assertivos! A 
+estratégia nos direciona a entender com mais clareza sobre <b>quais são os nossos 
+    reais objetivos.</b> </p>
+  <p>Neste curso de UX Strategy, falaremos sobre <b> estratégia voltada para 
+    experiência dos usuários </b>, veremos diversas ferramentas como: persona, proto persona, value propositions canvas, 360 view, pesquisas e exercícios. Esse 
+    curso será focado na parte mais abstrata da <b>UX Strategy</b>, como em 
+    levantamento de requisitos, priorização e organização de ideias!</p>
+    <p> <b>Não</b> abordaremos os assuntos Design, prototipação ou testes de usabilidade. </p>
+
+
+  
+</body>
+</html>
