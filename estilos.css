@@ -1,13 +1,13 @@
 
-<head>
-</head>
-
-<body> {
-  background-color:lightblue
+{body
+  background-color:lightblue;
 }
 
+h1{
+  color:darkblue;
+}
 div{
  width: 500px;
  height: 500px;
  }
-</body>
+
