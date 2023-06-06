@@ -4,22 +4,6 @@ body {
   background-color:lightblue
 }
 
-.posicionamento-relativo{
-     position:relative;
-     top:40px;
-     right:50px;
-}
-div{
-  width: 500px;
-  height: 500px;
-  }
-
-  .posicionamento-absolute{
-    position:absolute;
-    top:100px;
-    left:70px;
-
-}
 div{
  width: 500px;
  height: 500px;
